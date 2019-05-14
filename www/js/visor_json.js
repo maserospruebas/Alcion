@@ -864,15 +864,16 @@ function playController(e) {
 $(document).ready(function() {
 
     maquinas = {};
-    let poner_eventos_ini = false;
+    //let poner_eventos_ini = false;
 
+    /*
     if (typeof(Storage) !== "undefined") {
         //Funciona en web
         //localStorage.maquinas = localStorage.maquinas || maquinas;
         //maquinas = JSON.parse(localStorage.maquinas);
         //FIN Funciona en web
 
-        //localStorage.setItem("maquinas", "Smith");
+        //En algunas versiones de movil no va
         maquinas = JSON.parse(localStorage.getItem("maquinas"));
         //console.log('LocalStorage', maquinas);
         if (maquinas == null) {
@@ -886,13 +887,14 @@ $(document).ready(function() {
     }
     //localStorage.maquinas = localStorage.maquinas || maquinas;
     //maquinas = JSON.parse(localStorage.maquinas);
+    */
 
     //last_update();
     //last_update_visor();
     datos_maquinas();
 
     //Los eventos se ponen al leer maquinas de firestore, si las leemos en local hay que ponerlo 
-    if (poner_eventos_ini) poner_eventos();
+    //if (poner_eventos_ini) poner_eventos();
 
     leer_datos_maquinas();
     //datos_maquinas();

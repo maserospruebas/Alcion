@@ -43,6 +43,7 @@ function leer_datos_maquinas() {
             console.log(doc.data());
             maquinas = doc.data();
 
+            /*En algunas versiones de movil no va
             if (typeof(Storage) !== "undefined") {
                 //localStorage.maquinas = JSON.stringify(maquinas);
                 localStorage.setItem("maquinas", JSON.stringify(maquinas));
@@ -52,6 +53,7 @@ function leer_datos_maquinas() {
             //maquinas = JSON.parse(localStorage.maquinas);
             //localStorage.maquinas = JSON.stringify(maquinas);
             //localStorage.maquinas = localStorage.maquinas || maquinas;
+            */
 
             quitar_eventos();
             datos_maquinas();

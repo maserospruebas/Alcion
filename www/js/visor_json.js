@@ -1,5 +1,4 @@
 ﻿var maquinas;
-
 maquinas = {
     "5": {
         "cantidad_ok": 85181,
@@ -42,9 +41,7 @@ maquinas = {
         "estado": "PRODUCCION",
         "golpes_hora": 1012,
         "operacion": 1,
-        "operario": [
-            "RAMOS RAMIREZ, JOSE VICENTE"
-        ],
+        "operario": ["RAMOS RAMIREZ, JOSE VICENTE"],
         "tipo_estmaquina": 2
     },
     "1630": {
@@ -62,9 +59,7 @@ maquinas = {
         "estado": "PRODUCCION",
         "golpes_hora": 632,
         "operacion": 1,
-        "operario": [
-            "MARTINEZ MORENO, PEDRO JOSE"
-        ],
+        "operario": ["MARTINEZ MORENO, PEDRO JOSE"],
         "tipo_estmaquina": 2
     },
     "1640": {
@@ -108,9 +103,7 @@ maquinas = {
         "estado": "PRODUCCION",
         "golpes_hora": 590,
         "operacion": 1,
-        "operario": [
-            "MARTINEZ PARADINES, LUIS OTILO"
-        ],
+        "operario": ["MARTINEZ PARADINES, LUIS OTILO"],
         "tipo_estmaquina": 2
     },
     "1670": {
@@ -128,9 +121,7 @@ maquinas = {
         "estado": "PRODUCCION",
         "golpes_hora": 241,
         "operacion": 1,
-        "operario": [
-            "CANALES GOMEZ, MIGUEL"
-        ],
+        "operario": ["CANALES GOMEZ, MIGUEL"],
         "tipo_estmaquina": 2
     },
     "1680": {
@@ -148,9 +139,7 @@ maquinas = {
         "estado": "PRODUCCION",
         "golpes_hora": 807,
         "operacion": 1,
-        "operario": [
-            "GARCIA HERRAIZ, OSCAR"
-        ],
+        "operario": ["GARCIA HERRAIZ, OSCAR"],
         "tipo_estmaquina": 2
     },
     "1690": {
@@ -181,9 +170,7 @@ maquinas = {
         "estado": "PRODUCCION",
         "golpes_hora": 1837,
         "operacion": 1,
-        "operario": [
-            "GUILLAMON MONTES INMACULADA"
-        ],
+        "operario": ["GUILLAMON MONTES INMACULADA"],
         "tipo_estmaquina": 2
     },
     "1710": {
@@ -201,11 +188,7 @@ maquinas = {
         "estado": "PREPARACION",
         "golpes_hora": 345,
         "operacion": 1,
-        "operario": [
-            "GARCIA FERRER, IVAN",
-            "GARCIA GARCIA, MANUEL",
-            "TEJERO ESCRIBA, SERGIO"
-        ],
+        "operario": ["GARCIA FERRER, IVAN", "GARCIA GARCIA, MANUEL", "TEJERO ESCRIBA, SERGIO"],
         "tipo_estmaquina": 7
     },
     "2420": {
@@ -236,10 +219,7 @@ maquinas = {
         "estado": "INCIDENCIA",
         "golpes_hora": 858,
         "operacion": 1,
-        "operario": [
-            "HERNANDEZ DOCO, MIGUEL",
-            "MAEZTU GOMEZ, NICOLAS"
-        ],
+        "operario": ["HERNANDEZ DOCO, MIGUEL", "MAEZTU GOMEZ, NICOLAS"],
         "tipo_estmaquina": 1
     },
     "2460": {
@@ -296,9 +276,7 @@ maquinas = {
         "estado": "PRODUCCION",
         "golpes_hora": 484,
         "operacion": 1,
-        "operario": [
-            "LAZARO RODRIGUEZ, MANUEL"
-        ],
+        "operario": ["LAZARO RODRIGUEZ, MANUEL"],
         "tipo_estmaquina": 2
     },
     "2500": {
@@ -316,9 +294,7 @@ maquinas = {
         "estado": "PRODUCCION",
         "golpes_hora": 1011,
         "operacion": 1,
-        "operario": [
-            "CARRASCO, ANTONIA"
-        ],
+        "operario": ["CARRASCO, ANTONIA"],
         "tipo_estmaquina": 2
     },
     "2510": {
@@ -349,9 +325,7 @@ maquinas = {
         "estado": "PRODUCCION",
         "golpes_hora": 530,
         "operacion": 1,
-        "operario": [
-            "FLORES NAVARRO, ESTRELLA                                                                            "
-        ],
+        "operario": ["FLORES NAVARRO, ESTRELLA                                                                            "],
         "tipo_estmaquina": 2
     },
     "2530": {
@@ -400,9 +374,7 @@ maquinas = {
         "estado": "PRODUCCION",
         "golpes_hora": 885,
         "operacion": 1,
-        "operario": [
-            "PULIDO BALADO, Mª YOLANDA"
-        ],
+        "operario": ["PULIDO BALADO, Mª YOLANDA"],
         "tipo_estmaquina": 2
     },
     "3250": {
@@ -420,9 +392,7 @@ maquinas = {
         "estado": "PRODUCCION",
         "golpes_hora": 2050,
         "operacion": 1,
-        "operario": [
-            "PULIDO BALADO, Mª YOLANDA"
-        ],
+        "operario": ["PULIDO BALADO, Mª YOLANDA"],
         "tipo_estmaquina": 2
     },
     "4070": {
@@ -453,10 +423,7 @@ maquinas = {
         "estado": "PRODUCCION",
         "golpes_hora": 2968,
         "operacion": 1,
-        "operario": [
-            "ALCOLEA SALVADOR, Mª CARMEN",
-            "AREVALO RUIZ, OLGA"
-        ],
+        "operario": ["ALCOLEA SALVADOR, Mª CARMEN", "AREVALO RUIZ, OLGA"],
         "tipo_estmaquina": 2
     },
     "4090": {
@@ -474,10 +441,7 @@ maquinas = {
         "estado": "INCIDENCIA",
         "golpes_hora": 1335,
         "operacion": 1,
-        "operario": [
-            "CEDEÑO RODRIGUEZ, Mª PILAR",
-            "NOVA RUIZ, Mª ANGELES"
-        ],
+        "operario": ["CEDEÑO RODRIGUEZ, Mª PILAR", "NOVA RUIZ, Mª ANGELES"],
         "tipo_estmaquina": 1
     },
     "9750": {
@@ -495,9 +459,7 @@ maquinas = {
         "estado": "PREPARACION",
         "golpes_hora": 774,
         "operacion": 1,
-        "operario": [
-            "BLANCA RUIZ, FCO. MANUEL"
-        ],
+        "operario": ["BLANCA RUIZ, FCO. MANUEL"],
         "tipo_estmaquina": 7
     },
     "9760": {
@@ -515,9 +477,7 @@ maquinas = {
         "estado": "PRODUCCION",
         "golpes_hora": 779,
         "operacion": 1,
-        "operario": [
-            "YUBERO CASAMAYOR, JOSEFINA"
-        ],
+        "operario": ["YUBERO CASAMAYOR, JOSEFINA"],
         "tipo_estmaquina": 2
     },
     "VARIOS": {
@@ -535,56 +495,45 @@ maquinas = {
         "estado": "PRODUCCION",
         "golpes_hora": 0,
         "operacion": 60,
-        "operario": [
-            "NIÑEROLA FERRER, MARCOS",
-            "RUIZ RODRIGUEZ, JOSE MANUEL",
-            "PALOMAR ORTIZ, JOSE ENRIQUE"
-        ],
+        "operario": ["NIÑEROLA FERRER, MARCOS", "RUIZ RODRIGUEZ, JOSE MANUEL", "PALOMAR ORTIZ, JOSE ENRIQUE"],
         "tipo_estmaquina": 2
     }
-}
-
+};
 
 function resumen_todos() {
     //pongo en web
     //Obtener elementos
-    const preObject = document.getElementById('objeto');
-    const preObjectRed = document.getElementById('objeto_reducido');
-    //preObject.innerText = maquinas.length + " - " + JSON.stringify(maquinas, null, 3);
+    var preObject = document.getElementById('objeto');
+    var preObjectRed = document.getElementById('objeto_reducido'); //preObject.innerText = maquinas.length + " - " + JSON.stringify(maquinas, null, 3);
     //Fin pongo en web
-
     //console.log(maquinas['5']);
     //preObject.innerText = '';
+
     preObject.innerHTML = '';
     preObjectRed.innerHTML = '';
+    var ObjectRed = '';
 
-    let ObjectRed = '';
-
-    for (const maquina in maquinas) {
-
+    for (var maquina in maquinas) {
         if (maquina == "last_update") {
-            console.log(`Excluir: ${maquina}`);
-            //tratar last_update y ponerlo en cabecera
-            console.log(`Last Update: ${maquinas[maquina]}`);
+            //console.log("Excluir: ".concat(maquina)); //tratar last_update y ponerlo en cabecera
+
+            //console.log("Last Update: ".concat(maquinas[maquina]));
             $('#last_update').html(maquinas[maquina]);
             continue;
-        }
+        } //console.log(`maquinas.${prop} = ${maquinas[prop]}`);
 
-        //console.log(`maquinas.${prop} = ${maquinas[prop]}`);
-        console.log(`${maquina} => `, maquinas[maquina].descripcion);
-        //preObject.innerHTML += '<p>' + `${maquina} => ${maquinas[maquina].descripcion}` + '</p>';
 
+        //console.log("".concat(maquina, " => "), maquinas[maquina].descripcion); //preObject.innerHTML += '<p>' + `${maquina} => ${maquinas[maquina].descripcion}` + '</p>';
         //Bueno
         //preObject.innerHTML += `<div class="item m${maquina}">${maquina} => ${maquinas[maquina].descripcion}</div>`;
 
-        let estado = maquinas[maquina].estado.trim();
-        let desc_inc = maquinas[maquina].desc_incidencia.trim();
-        let cod_of = maquinas[maquina].cod_of;
-        let operacion = maquinas[maquina].operacion;
-        let articulo = maquinas[maquina].articulo;
+        var estado = maquinas[maquina].estado.trim();
+        var desc_inc = maquinas[maquina].desc_incidencia.trim();
+        var cod_of = maquinas[maquina].cod_of;
+        var operacion = maquinas[maquina].operacion;
+        var articulo = maquinas[maquina].articulo;
         desc_inc = desc_inc > "" ? desc_inc : estado;
-
-        let estado2 = desc_inc == "PREVENTIVO GENERAL" ? "preventivo" : "";
+        var estado2 = desc_inc == "PREVENTIVO GENERAL" ? "preventivo" : "";
 
         if (operacion == undefined) {
             operacion = '';
@@ -599,44 +548,25 @@ function resumen_todos() {
         if (articulo == undefined) {
             articulo = '';
         } else {
-            let n = articulo.indexOf(" ");
+            var n = articulo.indexOf(" ");
+
             if (n > 0) {
                 articulo = articulo.substring(0, n) + '<br>' + articulo.substring(n + 1, articulo.length);
             }
-        }
+        } ///*
 
-        ///*
-        preObject.innerHTML += `<div class="item m${maquina}" maquina="${maquina}">
-                               <div class="item2 cab_maq ${maquinas[maquina].estado.substring(0, 6).toLowerCase()} ${estado2}" maquina="${maquina}"> 
-                                  <strong class="item3" maquina="${maquina}">${maquina}</strong><br>${desc_inc}
-                               </div>
-                               <strong class="item3" maquina="${maquina}">${maquinas[maquina].descripcion}</strong>
-                               <div>
-                                  <strong>OF/OPE:</strong> ${cod_of}
-                               </div>
-                               <div>
-                                  <strong>ART:</strong> ${articulo}
-                               </div>
-                            </div>`;
 
-        ObjectRed += `<div class="itemRed m${maquina}" maquina="${maquina}">
-                    <div class="item2 cab_maq ${maquinas[maquina].estado.substring(0, 6).toLowerCase()} ${estado2}" maquina="${maquina}"> 
-                      <strong class="item3" maquina="${maquina}">${maquina}</strong><br>${desc_inc}
-                    </div>
-                    <strong class="item3" maquina="${maquina}">${maquinas[maquina].descripcion}</strong>
-                </div>`;
-        //*/
-
+        preObject.innerHTML += "<div class=\"item m".concat(maquina, "\" maquina=\"").concat(maquina, "\">\n                               <div class=\"item2 cab_maq ").concat(maquinas[maquina].estado.substring(0, 6).toLowerCase(), " ").concat(estado2, "\" maquina=\"").concat(maquina, "\"> \n                                  <strong class=\"item3\" maquina=\"").concat(maquina, "\">").concat(maquina, "</strong><br>").concat(desc_inc, "\n                               </div>\n                               <strong class=\"item3\" maquina=\"").concat(maquina, "\">").concat(maquinas[maquina].descripcion, "</strong>\n                               <div>\n                                  <strong>OF/OPE:</strong> ").concat(cod_of, "\n                               </div>\n                               <div>\n                                  <strong>ART:</strong> ").concat(articulo, "\n                               </div>\n                            </div>");
+        ObjectRed += "<div class=\"itemRed m".concat(maquina, "\" maquina=\"").concat(maquina, "\">\n                    <div class=\"item2 cab_maq ").concat(maquinas[maquina].estado.substring(0, 6).toLowerCase(), " ").concat(estado2, "\" maquina=\"").concat(maquina, "\"> \n                      <strong class=\"item3\" maquina=\"").concat(maquina, "\">").concat(maquina, "</strong><br>").concat(desc_inc, "\n                    </div>\n                    <strong class=\"item3\" maquina=\"").concat(maquina, "\">").concat(maquinas[maquina].descripcion, "</strong>\n                </div>"); //*/
         //preObject.innerHTML += '<div class="item m' + maquina +'" maquina="' + maquina + '">' + maquina+'</div>'
     }
 
-    preObjectRed.innerHTML = ObjectRed;
-    //alert('chuta');
+    preObjectRed.innerHTML = ObjectRed; //alert('chuta');
+}
 
-};
+;
 
 function html_maquina(maquinas, maquina) {
-
     if (maquinas[maquina] == undefined) {
         maquina = maquina == "5" ? "<h1>DESTAJOS</h1>" : "<h1>Máquina " + maquina + "</h1>";
         return maquina;
@@ -647,32 +577,31 @@ function html_maquina(maquinas, maquina) {
         }
     }
 
-    let html = "";
+    var html = ""; //..............
 
-    //..............
-    let estado = maquinas[maquina].estado.trim();
-    let desc_inc = maquinas[maquina].desc_incidencia.trim();
-    let cod_of = maquinas[maquina].cod_of;
-    let operacion = maquinas[maquina].operacion;
-    let articulo = maquinas[maquina].articulo;
+    var estado = maquinas[maquina].estado.trim();
+    var desc_inc = maquinas[maquina].desc_incidencia.trim();
+    var cod_of = maquinas[maquina].cod_of;
+    var operacion = maquinas[maquina].operacion;
+    var articulo = maquinas[maquina].articulo;
     desc_inc = desc_inc > "" ? desc_inc : estado;
-
-    let estado2 = desc_inc == "PREVENTIVO GENERAL" ? "preventivo" : "";
+    var estado2 = desc_inc == "PREVENTIVO GENERAL" ? "preventivo" : "";
 
     if (operacion == undefined) {
         operacion = '';
     }
 
     if (cod_of == undefined) {
-        cod_of = ''
+        cod_of = '';
     } else {
-        cod_of = cod_of + '/' + operacion
+        cod_of = cod_of + '/' + operacion;
     }
 
     if (articulo == undefined) {
         articulo = '';
     } else {
-        let n = articulo.indexOf(" ");
+        var n = articulo.indexOf(" ");
+
         if (n > 0) {
             articulo = articulo.substring(0, n) + '<br>' + articulo.substring(n + 1, articulo.length);
         }
@@ -686,45 +615,15 @@ function html_maquina(maquinas, maquina) {
         maquinas[maquina].cavs = '';
     }
 
-    html += `<div class="itemD m${maquina}" maquina="${maquina}">
-                <div class="item2 cab_maq ${maquinas[maquina].estado.substring(0, 6).toLowerCase()} ${estado2}" maquina="${maquina}"> 
-                    <strong class="item3" maquina="${maquina}">${maquina}</strong><br>${desc_inc}
-                </div>
-                <strong class="item3" maquina="${maquina}">${maquinas[maquina].descripcion}</strong>
-                <div>
-                    <strong>OF/OPE:</strong> ${cod_of}
-                </div>
-                <div>
-                    <strong>ART:</strong> ${articulo}
-                </div>
-                <div>
-                    <strong>MOLDE:</strong> ${maquinas[maquina].cod_molde}
-                </div>
-                <div>
-                    <strong>CAVS:</strong> ${maquinas[maquina].cavs}
-                </div>
-                <div>
-                    <strong>OPERARIO:</strong> ${maquinas[maquina].operario.reduce((ops,op) => {return ops + '<br>' + op},'')}
-                </div>
-                <div>
-                    <strong>C.PLAN:</strong> ${maquinas[maquina].cantidad_planificada}
-                </div>
-                <div>
-                    <strong>C.OK:</strong> ${maquinas[maquina].cantidad_ok}
-                </div>
-                <div>
-                    <strong>GOLPES/H:</strong> ${maquinas[maquina].golpes_hora}
-                </div>
-            </div>`;
-    //..............
-    return html;
+    html += "<div class=\"itemD m".concat(maquina, "\" maquina=\"").concat(maquina, "\">\n                <div class=\"item2 cab_maq ").concat(maquinas[maquina].estado.substring(0, 6).toLowerCase(), " ").concat(estado2, "\" maquina=\"").concat(maquina, "\"> \n                    <strong class=\"item3\" maquina=\"").concat(maquina, "\">").concat(maquina, "</strong><br>").concat(desc_inc, "\n                </div>\n                <strong class=\"item3\" maquina=\"").concat(maquina, "\">").concat(maquinas[maquina].descripcion, "</strong>\n                <div>\n                    <strong>OF/OPE:</strong> ").concat(cod_of, "\n                </div>\n                <div>\n                    <strong>ART:</strong> ").concat(articulo, "\n                </div>\n                <div>\n                    <strong>MOLDE:</strong> ").concat(maquinas[maquina].cod_molde, "\n                </div>\n                <div>\n                    <strong>CAVS:</strong> ").concat(maquinas[maquina].cavs, "\n                </div>\n                <div>\n                    <strong>OPERARIO:</strong> ").concat(maquinas[maquina].operario.reduce(function(ops, op) {
+        return ops + '<br>' + op;
+    }, ''), "\n                </div>\n                <div>\n                    <strong>C.PLAN:</strong> ").concat(maquinas[maquina].cantidad_planificada, "\n                </div>\n                <div>\n                    <strong>C.OK:</strong> ").concat(maquinas[maquina].cantidad_ok, "\n                </div>\n                <div>\n                    <strong>GOLPES/H:</strong> ").concat(maquinas[maquina].golpes_hora, "\n                </div>\n            </div>"); //..............
 
+    return html;
 }
 
 function datos_maquinas() {
-
     if (maquinas) {
-
         $('#m1450').html(html_maquina(maquinas, '1450'));
         $('#m1620').html(html_maquina(maquinas, '1620'));
         $('#m1630').html(html_maquina(maquinas, '1630'));
@@ -736,7 +635,6 @@ function datos_maquinas() {
         $('#m1690').html(html_maquina(maquinas, '1690'));
         $('#m1700').html(html_maquina(maquinas, '1700'));
         $('#m1710').html(html_maquina(maquinas, '1710'));
-
         $('#m2420').html(html_maquina(maquinas, '2420'));
         $('#m2430').html(html_maquina(maquinas, '2430'));
         $('#m2460').html(html_maquina(maquinas, '2460'));
@@ -747,44 +645,34 @@ function datos_maquinas() {
         $('#m2510').html(html_maquina(maquinas, '2510'));
         $('#m2520').html(html_maquina(maquinas, '2520'));
         $('#m2530').html(html_maquina(maquinas, '2530'));
-
         $('#m3230').html(html_maquina(maquinas, '3230'));
         $('#m3240').html(html_maquina(maquinas, '3240'));
         $('#m3250').html(html_maquina(maquinas, '3250'));
         $('#m9750').html(html_maquina(maquinas, '9750'));
         $('#m9760').html(html_maquina(maquinas, '9760'));
-
         $('#m4070').html(html_maquina(maquinas, '4070'));
         $('#m4080').html(html_maquina(maquinas, '4080'));
         $('#m4090').html(html_maquina(maquinas, '4090'));
         $('#m5').html(html_maquina(maquinas, '5'));
         $('#mvarios').html(html_maquina(maquinas, 'VARIOS'));
-
         resumen_todos();
     }
-
 }
 
 function last_update() {
-
-    var date = new Date;
-    //date.setTime(result_from_Date_getTime);
+    var date = new Date(); //date.setTime(result_from_Date_getTime);
 
     var seconds = date.getSeconds();
     var minutes = date.getMinutes();
     var hour = date.getHours();
-
     hour = ("" + hour).length == 1 ? '0' + hour : hour;
     minutes = ("" + minutes).length == 1 ? '0' + minutes : minutes;
-
     var year = date.getFullYear();
     var month = date.getMonth() + 1; // beware: January = 0; February = 1, etc.
+
     var day = date.getDate();
-
-    $('#last_update').html(`${day}/${month}/${year} ${hour}:${minutes}`);
-
+    $('#last_update').html("".concat(day, "/").concat(month, "/").concat(year, " ").concat(hour, ":").concat(minutes));
 }
-
 /*
     setTimeout(function() {
         let maqmodal = $('#maquinaModal').attr("maquina");
@@ -796,17 +684,17 @@ function last_update() {
     }, 2000);
     */
 
+
 function maquina_modal() {
-    let maqmodal = $('#maquinaModal').attr("maquina");
+    var maqmodal = $('#maquinaModal').attr("maquina");
 
     if (maqmodal > "") {
-        let cuerpo = html_maquina(maquinas, maqmodal);
+        var cuerpo = html_maquina(maquinas, maqmodal);
         $('.modal-body').html('Detalle de la máquina ' + maqmodal + cuerpo);
     }
 }
 
 function poner_eventos() {
-
     var maq = document.querySelectorAll('.itemD');
 
     for (var i = 0; i < maq.length; i++) {
@@ -821,7 +709,6 @@ function poner_eventos() {
 }
 
 function quitar_eventos() {
-
     var maq = document.querySelectorAll('.itemD');
 
     for (var i = 0; i < maq.length; i++) {
@@ -833,38 +720,27 @@ function quitar_eventos() {
     for (var i = 0; i < maq.length; i++) {
         maq[i].removeEventListener('click', playController);
     }
-
 }
 
 function playController(e) {
-
-    let clase = this.className;
+    var clase = this.className;
     clase = '.' + clase.replace(/ /g, ".");
-    let maquina = $(clase).attr("maquina");
-
-    let cuerpo = html_maquina(maquinas, maquina);
-
-    //let cuerpo = '<br><p>1 <br></p><p>2 <br></p><p>3 <br></p><p>4 <br></p><p>5 <br></p><p>6 <br></p><p>7 <br></p><p>8 <br></p><p>9 <br></p><p>10<br></p>'
-
+    var maquina = $(clase).attr("maquina");
+    var cuerpo = html_maquina(maquinas, maquina); //let cuerpo = '<br><p>1 <br></p><p>2 <br></p><p>3 <br></p><p>4 <br></p><p>5 <br></p><p>6 <br></p><p>7 <br></p><p>8 <br></p><p>9 <br></p><p>10<br></p>'
     //funciona
     //$(clase).html("funciona maquina "+ maquina);
-
     //alert(clase);
     //alert('Máquina: ' + maquina);
 
-    $('#maquinaModal').modal('show')
+    $('#maquinaModal').modal('show');
     $('.modal-body').html('Detalle de la máquina ' + maquina + cuerpo);
-    $('#exampleModalLongTitle').html('MÁQUINA ' + maquina);
+    $('#exampleModalLongTitle').html('MÁQUINA ' + maquina); //marco modal para poder actualizarlo    
 
-    //marco modal para poder actualizarlo    
     $('#maquinaModal').attr("maquina", maquina);
-
 }
 
 $(document).ready(function() {
-
-    maquinas = {};
-    //let poner_eventos_ini = false;
+    maquinas = {}; //let poner_eventos_ini = false;
 
     /*
     if (typeof(Storage) !== "undefined") {
@@ -872,8 +748,7 @@ $(document).ready(function() {
         //localStorage.maquinas = localStorage.maquinas || maquinas;
         //maquinas = JSON.parse(localStorage.maquinas);
         //FIN Funciona en web
-
-        //En algunas versiones de movil no va
+         //En algunas versiones de movil no va
         maquinas = JSON.parse(localStorage.getItem("maquinas"));
         //console.log('LocalStorage', maquinas);
         if (maquinas == null) {
@@ -881,22 +756,17 @@ $(document).ready(function() {
         } else {
             poner_eventos_ini = true;
         }
-
-    } else {
+     } else {
         // Sorry! No Web Storage support..
     }
     //localStorage.maquinas = localStorage.maquinas || maquinas;
     //maquinas = JSON.parse(localStorage.maquinas);
     */
-
     //last_update();
     //last_update_visor();
-    datos_maquinas();
 
-    //Los eventos se ponen al leer maquinas de firestore, si las leemos en local hay que ponerlo 
+    datos_maquinas(); //Los eventos se ponen al leer maquinas de firestore, si las leemos en local hay que ponerlo 
     //if (poner_eventos_ini) poner_eventos();
 
-    leer_datos_maquinas();
-    //datos_maquinas();
-
-})
+    leer_datos_maquinas(); //datos_maquinas();
+});

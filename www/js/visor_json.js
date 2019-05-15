@@ -564,8 +564,6 @@ function resumen_todos() {
     preObjectRed.innerHTML = ObjectRed; //alert('chuta');
 }
 
-;
-
 function html_maquina(maquinas, maquina) {
     if (maquinas[maquina] == undefined) {
         maquina = maquina == "5" ? "<h1>DESTAJOS</h1>" : "<h1>Máquina " + maquina + "</h1>";

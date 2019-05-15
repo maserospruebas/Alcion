@@ -35,7 +35,7 @@ function leer_datos_maquinas() {
 
     var doc = db.collection('planta');
 
-    var observer = doc.onSnapshot(docSnapshot => {
+    var observer = doc.onSnapshot(function(docSnapshot) {
 
         //console.log('lecturas ini');
         docSnapshot.forEach((doc) => {
@@ -43,6 +43,7 @@ function leer_datos_maquinas() {
             //console.log(doc.data());
             maquinas = doc.data();
 
+            /*
             if (typeof(Storage) !== "undefined") {
                 //localStorage.maquinas = JSON.stringify(maquinas);
                 localStorage.setItem("maquinas", JSON.stringify(maquinas));
@@ -52,7 +53,7 @@ function leer_datos_maquinas() {
             //maquinas = JSON.parse(localStorage.maquinas);
             //localStorage.maquinas = JSON.stringify(maquinas);
             //localStorage.maquinas = localStorage.maquinas || maquinas;
-
+            */
             quitar_eventos();
             datos_maquinas();
             maquina_modal();

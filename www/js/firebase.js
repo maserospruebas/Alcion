@@ -1,6 +1,11 @@
-﻿// Initialize Firebase
+// Initialize Firebase
 var config = {
-   
+   apiKey: "AIzaSyBu7XI4XMH3C34q9k8SdBByt0vWQB97mwM",
+    authDomain: "proteoip.firebaseapp.com",
+    databaseURL: "https://proteoip.firebaseio.com",
+    projectId: "proteoip",
+    storageBucket: "proteoip.appspot.com",
+    messagingSenderId: "337155340154"
 };
 
 firebase.initializeApp(config);
